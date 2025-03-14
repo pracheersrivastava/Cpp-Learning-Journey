@@ -2,15 +2,15 @@
 using namespace std;
 int main()
 {
-    int sum=0;
+    int fact=1;
     int a;
     cout<<"Enter a number: ";
     cin>>a;
     int i = 1;
     while(i<=a){
-        sum = (sum+i);
-    i++;
+        fact *= i;
+        i++;
     }
-    cout<<"Sum of numbers is: "<<sum<<endl;
+    cout<<"Factorial of "<<a<<" is: "<<fact<<endl;
  return 0;
 }
