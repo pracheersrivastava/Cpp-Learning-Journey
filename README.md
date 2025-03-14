@@ -29,10 +29,12 @@ C++-Learning-Journey/
 - **calculator.cpp** – A basic arithmetic calculator supporting addition, subtraction, multiplication, and division.
 
 ### Loops
+- **factorial.cpp** – Prints the factorial for a given number.
 - **multiplication-table.cpp** – Prints the multiplication table for a given number.
 - **print-a-num-for.cpp** – Demonstrates printing numbers using a `for` loop.
 - **print-a-num-while.cpp** – Demonstrates printing numbers using a `while` loop.
 - **print-a-num-dowhile.cpp** – Demonstrates printing numbers using a `do-while` loop.
+- **reverse-a-num.cpp.cpp** – Prints the reverse order for a given number.
 - **sum-of-num.cpp** – Calculates the sum of first 'n' natural numbers.
 
 ## 🔥 Progress
