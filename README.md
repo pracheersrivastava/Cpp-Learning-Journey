@@ -10,6 +10,11 @@ C++-Learning-Journey/
 │   ├── even-odd.cpp
 │   ├── calculator.cpp
 │
+│── Functions/
+│   ├── add-two-nums.cpp
+│   ├── factorial-recursion.cpp
+│   ├── prime-number-check.cpp 
+│
 │── Loops/
 │   ├── factorial.cpp
 │   ├── multiplication-table.cpp
@@ -27,6 +32,11 @@ C++-Learning-Journey/
 - **helloworld.cpp** – A simple program to print "Hello, World!".
 - **even-odd.cpp** – Determines whether a number is even or odd.
 - **calculator.cpp** – A basic arithmetic calculator supporting addition, subtraction, multiplication, and division.
+
+### Functions
+- **add-two-nums.cpp** – A simple program to input 2 numbers and find their sum.
+- **factorial-recursion.cpp** – Program to find factorial of a number using recursion.
+- **prime-number-check.cpp** – Program to check if a number is prime number or not.
 
 ### Loops
 - **factorial.cpp** – Prints the factorial for a given number.
