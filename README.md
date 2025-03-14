@@ -11,10 +11,12 @@ C++-Learning-Journey/
 │   ├── calculator.cpp
 │
 │── Loops/
+│   ├── factorial.cpp
 │   ├── multiplication-table.cpp
 │   ├── print-a-num-for.cpp
 │   ├── print-a-num-while.cpp
 │   ├── print-a-num-dowhile.cpp
+│   ├── reverse-a-num.cpp
 │   ├── sum-of-num.cpp
 │
 │── README.md
